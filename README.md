@@ -1,5 +1,6 @@
 # Text-Classification
 This repository contains a variety of text classification algorithms, including examples of deep learning approaches. The repository also includes code for preprocessing text data and evaluating the performance of different classifiers.
+
 This code is for classifying text data from the Spooky Authors (train)dataset, which can bedownloaded from Kaggle
 (https://www.kaggle.com/competitions/spooky-author-identification/data). 
 The dataset is used to train four machine learning models, including an MLP, LSTM, CNN, and RNN, to classify the text into three categories(authors).
